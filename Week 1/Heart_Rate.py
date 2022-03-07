@@ -13,3 +13,4 @@ maximun = 220 - user_age
 x1 = maximun * 0.65
 x2 = maximun * 0.85
 print(f"\nYour Exercise Heart Rate Range is {x1:1.0f}-{x2:1.0f}bpm\n")
+print("hi")
