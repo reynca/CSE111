@@ -36,3 +36,5 @@ def read_dict(filename, Index_Key):
 
 if __name__ == "__main__":
     main()
+
+print("hi")
